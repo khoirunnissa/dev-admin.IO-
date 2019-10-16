@@ -2,12 +2,12 @@
 .DS_store
 .vscode
 .idea
-.cache
-lib
-built
+.travis.yml
 
 coverage
 
 docker-compose.ovverride.yml
 
 node_modules
+
+docs
