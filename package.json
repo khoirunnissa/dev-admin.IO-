@@ -61,7 +61,7 @@
     "axios": "^0.18.0",
     "babel-plugin-styled-components": "^1.10.0",
     "classnames": "^2.2.6",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "jw-paginate": "^1.0.2",
     "lodash": "^4.17.11",
     "prop-types": "^15.7.2",
